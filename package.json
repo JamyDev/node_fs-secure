@@ -1,0 +1,21 @@
+{
+  "name": "fs-secure",
+  "version": "0.0.1",
+  "description": "Runs fs commands as the specified user, so files are owned by the correct user.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fs",
+    "fs-extra",
+    "secure",
+    "uid",
+    "gid"
+  ],
+  "author": "Jamy Timmermans",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^0.10.0"
+  }
+}
