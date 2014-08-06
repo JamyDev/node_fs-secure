@@ -13,7 +13,7 @@
     "uid",
     "gid"
   ],
-  "author": "Jamy Timmermans",
+  "author": "Jamy Timmermans <me@jamy.be>",
   "license": "ISC",
   "dependencies": {
     "fs-extra": "^0.10.0",
