@@ -16,6 +16,7 @@
   "author": "Jamy Timmermans",
   "license": "ISC",
   "dependencies": {
-    "fs-extra": "^0.10.0"
+    "fs-extra": "^0.10.0",
+    "lodash": "^2.4.1"
   }
 }
