@@ -1,10 +1,14 @@
 {
   "name": "fs-secure",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Runs fs commands as the specified user, so files are owned by the correct user.",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JamyDev/node_fs-secure"
   },
   "keywords": [
     "fs",
